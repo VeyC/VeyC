@@ -6,12 +6,13 @@
 我现在是湖南大学信息科学与工程学院的一年级博士生。我的研究兴趣包括自然语言处理、LLM、知识图谱和LLM4DB。
 
 # 教育背景
+- ``2024.09~2至今``       湖南大学            计算机科学与技术
 - ``2021.09~2024.06``    燕山大学            计算机科学与技术        
-- ``2016.09-2020.06``    华中师范大学            软件工程           
-- ``2018.09-2019.06``    武汉大学（辅修）          英语              
+- ``2016.09~2020.06``    华中师范大学            软件工程           
+- ``2018.09~2019.06``    武汉大学（辅修）          英语              
 
 # 荣誉/奖项
-- “逸华”励志奖学金
+- "逸华"励志奖学金
 - 校二、三等奖学金
 - 优秀毕业生
 - 优秀共青团干部
@@ -20,10 +21,10 @@
 
 # 科研经历
 ## 论文
-- **Qin Wang**, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering, in proceeding of the 30th ICONIP. 
-- Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. (under review)
-- Jianzhou Feng, **Qin Wang**, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. Applied Intelligence. (under review)
-- Jianzhou Feng, Ganlin Xu, **Qin Wang**, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. Information Processing & Management.
+- **Qin Wang**, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering, in proceeding of the 30th ICONIP. （CCF C）
+- Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. (2nd revision under review) (SCI 1区)
+- Jianzhou Feng, **Qin Wang**, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. Applied Intelligence. (under review) （SCI 2区）
+- Jianzhou Feng, Ganlin Xu, **Qin Wang**, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. Information Processing & Management.(SCI 1区)
 
 ## 专利
 - 冯建周，王琴，徐甘霖. 一种使用两阶段检索的文本多跳推理问答方法 (2023.7.22,实质审查)
@@ -58,6 +59,15 @@
 - 职责：承担数据挖掘、数据分析、机器学习相关算法的研发和django 后端开发等工作。通过应用 RF、LightGBM、Xgboost、K-means 等算法，用户现有行为的分析和对未来用电行为进行预测。
 - 成果：本项目获得 2022 年"中国软件杯"大学生软件设计大赛全国三等奖。
 
- # 结束
- 
- 路漫漫其修远兮，吾将上下而求索
+## 智能企业通知单编写平台
+- 项目时间：``2024.08-2024.12``
+- 担任职务: 算法工程师
+- 介绍：本项目与海南金盘科技股份有限公司联合研发，旨在构建一个面向企业分发任务的智能通知单编写平台。
+- 职责：负责整体技术路线和项目实现，把控项目进展。
+
+## 基于 LLM Agents 的渗透测试系统
+- 项目时间：``2024.08-2025.06``
+- 担任职务: 算法工程师
+- 介绍：本项目与沥泉公司联合研发，旨在通过 LLM  Agents 系统来辅助渗透测试人员的工作任务，增强红队能力。
+- 职责：负责需求对齐和技术实现。
+
