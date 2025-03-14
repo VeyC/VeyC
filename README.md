@@ -1,73 +1,31 @@
-# 王琴
-> 女，1998.06  
-> 手机：(+86)152 0715 3282   
-> 邮箱：2940946148@qq.com
+# Qin Wang
 
-我现在是湖南大学信息科学与工程学院的一年级博士生。我的研究兴趣包括自然语言处理、LLM、知识图谱和LLM4DB。
+### *Ph.D. Student*
 
-# 教育背景
-- ``2024.09~2至今``       湖南大学            计算机科学与技术
-- ``2021.09~2024.06``    燕山大学            计算机科学与技术        
-- ``2016.09~2020.06``    华中师范大学            软件工程           
-- ``2018.09~2019.06``    武汉大学（辅修）          英语              
+Hunan University
 
-# 荣誉/奖项
-- "逸华"励志奖学金
-- 校二、三等奖学金
-- 优秀毕业生
-- 优秀共青团干部
-- 校三好学生
-- 校学习积极分子
+Changsha, China, 410082
 
-# 科研经历
-## 论文
-- **Qin Wang**, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering, in proceeding of the 30th ICONIP. （CCF C）
-- Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. (2nd revision under review) (SCI 1区)
-- Jianzhou Feng, **Qin Wang**, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. Applied Intelligence. (under review) （SCI 2区）
-- Jianzhou Feng, Ganlin Xu, **Qin Wang**, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. Information Processing & Management.(SCI 1区)
+## Education
 
-## 专利
-- 冯建周，王琴，徐甘霖. 一种使用两阶段检索的文本多跳推理问答方法 (2023.7.22,实质审查)
+- 2024.09-*Present* College of Computer Science and Electronic Engineering, Hunan University Ph.D.
 
-## 科研项目
-- 徐甘霖，王琴. 河北省研究生创新资助项目《非结构化知识辅助的小样本信息抽取和问答任务的研究》
-- 河北省自然科学基金资助项目《基于稀疏标注的领域知识图谱构建关键技术研究》
-- 河北省科学技术厅中央引导地方科技发展资金项目《基于知识图谱的检察机关减假暂智能化监督关键技术研究》
-- 参与编撰《自然语言处理》冯建周著,中国水利水电出版社
+## Research Interests
 
-## 软著
-《重大疫情期间生活物质科学管理和监测系统》、《二手车销售估价软件》、《校运会管理系统》
+- Natural Language Processing
+- Large Language Models
 
-## 竞赛
-- 2023 年燕山大学"挑战杯"三等奖
-- 2022 年"中国软件杯"大学生软件设计大赛全国三等奖；
-- 2021 年 MathorCup高校数学建模挑战赛—大数据竞赛全国二等奖；
-- 2018 年蓝桥杯湖北省 C/C++A 组二等奖。
+## Skills
 
-# 项目经历
-## 智慧司法平台
-- 项目时间：``2023.05~2023.10``
-- 担任职务:后端、算法工程师
-- 介绍：本项目与重庆司法局联合研发，旨在构建一个面向人民调解场景的智慧司法平台。
-- 职责：负责整体门户设计和类案检索模块。作为负责人进行前期的需求分析和可行性分析，把控项目进展。在类案检索模块中负责检索算法的研发和 flask 后端开发。
-- 成果：本项目中的“明镜”法律大模型已取得华为河北人工智能中心昇腾技术认证。
+- Natural Language: Chinese (Native); English (CET-6)
+- Programming Language: **Python**; C++; Java
+- Typesetting Language: **LaTeX**; Markdown
+- Programming Framework: **PyTorch**
 
-## 电力行为分析系统
-- 项目时间：``2022.01~2022.07``
-- 担任职务:后端、算法工程师
-- 介绍：本系统基于机器学习相关算法实现了对用户现有行为的分析和对未来用电行为的预测。
-- 职责：承担数据挖掘、数据分析、机器学习相关算法的研发和django 后端开发等工作。通过应用 RF、LightGBM、Xgboost、K-means 等算法，用户现有行为的分析和对未来用电行为进行预测。
-- 成果：本项目获得 2022 年"中国软件杯"大学生软件设计大赛全国三等奖。
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=_GryqyIAAAAJ&hl=en))
 
-## 智能企业通知单编写平台
-- 项目时间：``2024.08-2024.12``
-- 担任职务: 算法工程师
-- 介绍：本项目与海南金盘科技股份有限公司联合研发，旨在构建一个面向企业分发任务的智能通知单编写平台。
-- 职责：负责整体技术路线和项目实现，把控项目进展。
-
-## 基于 LLM Agents 的渗透测试系统
-- 项目时间：``2024.08-2025.06``
-- 担任职务: 算法工程师
-- 介绍：本项目与沥泉公司联合研发，旨在通过 LLM  Agents 系统来辅助渗透测试人员的工作任务，增强红队能力。
-- 职责：负责需求对齐和技术实现。
+1. Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. **Neural Networks 2025**. [[DOI]](https://doi.org/10.1016/j.neunet.2024.106833)
+1. Jianzhou Feng, Ganlin Xu, **Qin Wang**, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. **Information Processing & Management 2024**. [[DOI]](https://doi.org/10.1016/j.ipm.2023.103557)
+1. **Qin Wang**, Jianzhou Feng, Ganlin Xu, Lei Huang.2023. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering. **ICONIP2023**. [[DOI]](https://doi.org/10.1007/978-981-99-8082-6_35)
+1. Jianzhou Feng, **Qin Wang**, Yiming Xu.2023. A Correlation-Augmented Iterative Model For Entailment Tree Explanation. **Arxiv**. [[arXiv]](https://arxiv.org/abs/2409.17757)
 
