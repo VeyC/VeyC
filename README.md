@@ -24,7 +24,7 @@ Changsha, China, 410082
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=_GryqyIAAAAJ&hl=en))
 
-1. Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. Neural Networks. **Neural Networks 2025**. [[DOI]](https://doi.org/10.1016/j.neunet.2024.106833)
+1. Jianzhou Feng, **Qin Wang**, Huaxiao Qiu, Lirong Liu. Retrieval In Decoder benefits generative models for explainable question answering. **Neural Networks 2025**. [[DOI]](https://doi.org/10.1016/j.neunet.2024.106833)
 1. **Qin Wang** et al. **ACL 2025** (under review). 
 1. Jianzhou Feng, Ganlin Xu, **Qin Wang**, Lei Huang, Yuzhuo Yang. Note the Hierarchy:Taxonomy-Guided Prototype for Few Shot Named Entity Recognition. **Information Processing & Management 2024**. [[DOI]](https://doi.org/10.1016/j.ipm.2023.103557)
 1. **Qin Wang**, Jianzhou Feng, Ganlin Xu, Lei Huang. Two-Phase Semantic Retrieval For Explainable Multi-Hop Question Answering. **ICONIP2023**. [[DOI]](https://doi.org/10.1007/978-981-99-8082-6_35)
